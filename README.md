@@ -12,8 +12,11 @@ Enjoy the joke! 🎉
 
 
 🚀 Features
+
 ✅ Fetches jokes from the JokeAPI
+
 ✅ Uses VoiceRSS for Text-to-Speech
+
 ✅ Fully responsive design for desktop & mobile
 
 🛠 Technologies Used
